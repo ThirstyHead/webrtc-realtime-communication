@@ -1,0 +1,20 @@
+{
+  "name": "webrtc-realtime-communication",
+  "homepage": "https://github.com/ThirstyHead/webrtc-realtime-communication",
+  "authors": [
+    "Scott Davis <scott@thirstyhead.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "talk-o-vision": "thirstyhead/talk-o-vision#^0.5.0"
+  }
+}
